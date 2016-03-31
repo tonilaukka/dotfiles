@@ -1,4 +1,5 @@
 # Toni's Dotfiles
+
 These are my dotfiles when I setup up a new environment.
 
 ## Setup
@@ -8,7 +9,8 @@ understand [what it does](bin/install.sh).
 
 | OS | Snippet |
 |:---:|:---|
-| Ubuntu | `bash -c "$(wget -qO - https://raw.github.com/tonilaukka/dotfiles/master/bin/install.sh)"` |
+| Ubuntu | `bash -c "$(curl -LsS https://raw.github.com/tonilaukka/dotfiles/master/bin/install.sh)"` |
+
 
 ## Todo
 - Ubuntu
