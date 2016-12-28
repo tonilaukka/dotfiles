@@ -9,7 +9,7 @@ understand [what it does](bin/install.sh).
 
 | OS | Snippet |
 |:---:|:---|
-| macOS | git clone https://github.com/tonilaukka/dotfiles.git && cd dotfiles && source bootstrap.sh
+| macOS | `git clone https://github.com/tonilaukka/dotfiles.git && cd dotfiles && source bootstrap.sh` |
 | Ubuntu | `bash -c "$(curl -LsS https://raw.github.com/tonilaukka/dotfiles/master/bin/install.sh)"` |
 
 
