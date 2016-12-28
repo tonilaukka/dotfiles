@@ -1,20 +1,23 @@
 # Applications to install
 
 ## Universal
-- chrome / chrome canary
-- dropbox
-- libreoffice
-- rescuetime
-- ruby
-- slack
-- spotify
-- sublime text
-- tmux
-- vim / neovim
-- virtualbox
+- Git
+- Google Chrome
+- Dropbox
+- Slack
+- Spotify
+- Sublime Text
+- Tmux
+- Neovim
+- Virtualbox
+- Visual Studio Code
 - zsh & oh-my-zsh
 
-## OS X 
+## macOS
+- Alfred
+- Display Menu
+- iTerm 2
+- Sketch
+- Spectacle
 
 ## Ubuntu
-- git
